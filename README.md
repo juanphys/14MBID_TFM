@@ -4,4 +4,4 @@
 3. estaciones.py: llama la API de Open AQ para identificar y obtener las coordenadas exactas de las estaciones de medición en las zonas de estudio.
 4. sensores.py: obtiene los contaminantes disponibles en cada estación y sus rangos temporales entre otros datos.
 5. Análisis_y_pretratamiento_datos.ipynb: lee los ficheros mediciones.csv y datos_atmosféricos.py para realizar las tareas de análisis, limpieza e integración. Crea csv datos_integrados.csv
-6. Notebooks con experimentos XGBoost y RandomForest
+6. Notebooks con experimentos XGBoost, RandomForest y redes LSTM una capa
