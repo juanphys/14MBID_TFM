@@ -5,14 +5,14 @@ import time
 
 
 BahiaCadiz_params= {
-    "limit": 100,           # Máximo por página (puedes ajustar hasta 10000 en algunos casos)
+    "limit": 100,           # Máximo por página  
     "page": 1,
     "coordinates": "36.4606,-6.2031",
     "radius": 1000,
 }
 
 Jerez_params = {
-    "limit": 100,           # Máximo por página (puedes ajustar hasta 10000 en algunos casos)
+    "limit": 100,           # Máximo por página  
     "page": 1,
     "coordinates": "36.6885,-6.1172",
     "radius": 1000,
@@ -20,7 +20,7 @@ Jerez_params = {
 
 
 Algeciras_params = {
-    "limit": 100,           # Máximo por página (puedes ajustar hasta 10000 en algunos casos)
+    "limit": 100,           # Máximo por página  
     "page": 1,
     "coordinates": "36.13623,-5.4534",
     "radius": 1000,
